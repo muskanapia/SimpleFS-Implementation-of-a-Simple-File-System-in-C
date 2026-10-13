@@ -1,0 +1,3 @@
+SimpleFS second sample file.
+This file can be used for a multiple-file test.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa
